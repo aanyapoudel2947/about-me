@@ -1,12 +1,12 @@
 //
 //  ViewController.swift
-//  about me
+//  demo
 //
-//  Created by Scholar on 7/13/22.
+//  Created by Scholar on 7/14/22.
 //
 
 import UIKit
-
+//((((i hate you !!111111))))
 class ViewController: UIViewController {
 
     override func viewDidLoad() {

@@ -1,31 +1,21 @@
 //
-//  secondScreenViewController.swift
-//  demo
+//  ViewController3.swift
+//  segues
 //
 //  Created by Scholar on 7/14/22.
 //
 
 import UIKit
 
-class secondScreenViewController: UIViewController {
+class ViewController3: UIViewController {
 
-    @IBOutlet weak var labelOne: UILabel!
-    @IBOutlet weak var labelTwo: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
-     
-  
-    @IBAction func firstButton(_ sender: Any) {
-         labelOne.text = "correct"
-    }
     
-    @IBAction func secondbutton(_ sender: Any) {
-        labelTwo.text = "incorrect u ugly person"
-    }
-}
+
     /*
     // MARK: - Navigation
 
@@ -36,4 +26,4 @@ class secondScreenViewController: UIViewController {
     }
     */
 
-
+}

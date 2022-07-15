@@ -15,6 +15,7 @@
 		BD9BC627288085380020CFD7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD9BC626288085380020CFD7 /* Assets.xcassets */; };
 		BD9BC62A288085380020CFD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD9BC628288085380020CFD7 /* LaunchScreen.storyboard */; };
 		BD9BC632288085F00020CFD7 /* secondScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9BC631288085F00020CFD7 /* secondScreenViewController.swift */; };
+		BDD3B4D12880D4980085E380 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD3B4D02880D4980085E380 /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		BD9BC629288085380020CFD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD9BC62B288085380020CFD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD9BC631288085F00020CFD7 /* secondScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondScreenViewController.swift; sourceTree = "<group>"; };
+		BDD3B4D02880D4980085E380 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				BD9BC61E288085370020CFD7 /* ViewController.swift */,
 				BD9BC620288085370020CFD7 /* Main.storyboard */,
 				BD9BC631288085F00020CFD7 /* secondScreenViewController.swift */,
+				BDD3B4D02880D4980085E380 /* ViewController3.swift */,
 				BD9BC626288085380020CFD7 /* Assets.xcassets */,
 				BD9BC628288085380020CFD7 /* LaunchScreen.storyboard */,
 				BD9BC62B288085380020CFD7 /* Info.plist */,
@@ -146,6 +149,7 @@
 			files = (
 				BD9BC61F288085370020CFD7 /* ViewController.swift in Sources */,
 				BD9BC61B288085370020CFD7 /* AppDelegate.swift in Sources */,
+				BDD3B4D12880D4980085E380 /* ViewController3.swift in Sources */,
 				BD9BC625288085370020CFD7 /* demo.xcdatamodeld in Sources */,
 				BD9BC632288085F00020CFD7 /* secondScreenViewController.swift in Sources */,
 				BD9BC61D288085370020CFD7 /* SceneDelegate.swift in Sources */,
